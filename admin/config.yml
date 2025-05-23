@@ -138,8 +138,8 @@ collections:
         fields:
           - {label: "Page Title", name: "title", widget: "string", default: "Contact Us"}
           - {label: "Page Description", name: "description", widget: "text", default: "We'd love to hear from you. Reach out with any questions about admissions, programs, or general inquiries."}
-          - {label: "Phone Number", name: "phone", widget: "string", default: "+254 714 720 727"}
-          - {label: "Email Address", name: "email", widget: "string", default: "wahustella@gmail.com"}
+          - {label: "Phone Number", name: "phone", widget: "string", default: "+254 723 324 518"}
+          - {label: "Email Address", name: "email", widget: "string", default: "senganigirlsschool@gmail.com"}
           - {label: "Physical Address", name: "address", widget: "text", default: "Tala town, Matungulu Sub-County, Machakos County, Kenya"}
           - {label: "Map Location Title", name: "mapTitle", widget: "string", default: "Our Location"}
           - {label: "Directions Title", name: "directionsTitle", widget: "string", default: "Directions"}
