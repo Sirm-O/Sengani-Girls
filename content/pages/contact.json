@@ -1,0 +1,33 @@
+{
+  "title": "Contact Us",
+  "description": "We'd love to hear from you. Reach out with any questions about admissions, programs, or general inquiries.",
+  "phone": "+254 714 720 727",
+  "email": "wahustella@gmail.com",
+  "address": "Tala town, Matungulu Sub-County, Machakos County, Kenya",
+  "mapTitle": "Our Location",
+  "directionsTitle": "Directions",
+  "directionsContent": "AIC Sengani Girls High School is located in Tala town, Matungulu Sub-County, Machakos County. The school is approximately 50 kilometers from Nairobi city.\n\n**From Nairobi:**\n- Take Kangundo Road from the city center\n- Drive for approximately 45 minutes to 1 hour to reach Tala town\n- At Tala town center, take the road towards Sengani\n- The school is located approximately 2 kilometers from Tala town center\n\n**Public Transport:**\n- Take matatus heading to Tala from Nairobi's Machakos Country Bus Station\n- Alight at Tala town center\n- Take a bodaboda (motorcycle taxi) to the school",
+  "faqTitle": "Frequently Asked Questions",
+  "faqItems": [
+    {
+      "question": "What are the admission requirements?",
+      "answer": "Admission to AIC Sengani Girls High School is based on KCPE performance, available vacancies, and an interview process. We accept students from diverse backgrounds who demonstrate academic potential and good character."
+    },
+    {
+      "question": "What is the school's fee structure?",
+      "answer": "Our fee structure follows the guidelines provided by the Ministry of Education. For detailed information about the current fee structure, please contact our administration office directly."
+    },
+    {
+      "question": "Does the school offer scholarships?",
+      "answer": "Yes, we offer a limited number of scholarships to academically gifted students from disadvantaged backgrounds. These scholarships are awarded based on merit and need."
+    },
+    {
+      "question": "What is the teacher-to-student ratio?",
+      "answer": "We maintain a favorable teacher-to-student ratio to ensure quality education and personalized attention. Our average class size is 40-45 students."
+    },
+    {
+      "question": "What are the visiting days?",
+      "answer": "Visiting days are scheduled once per term, usually on the second month of the term. Specific dates are communicated to parents at the beginning of each term."
+    }
+  ]
+}
